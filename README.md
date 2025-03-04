@@ -45,10 +45,10 @@ Currently, I'm working at Bizay as a Software Developer!
 
 ## 🔥 **Side Projects**
 
-<div style="display: flex; align-items: center;">
-  <img src="trim.svg" width="120" height="120" style="margin-right: 10px;">
-  <p>Trim is a mobile app designed to simplify the booking process for both customers and business owners. As a business owner, Trim provides you with an efficient reservation management system that automates and optimizes the entire booking process—from customer reservations to employee calendar organization.</p>
-</div>
+![Trim](trim.png)
+
+Trim is a mobile app designed to simplify the booking process for both customers and business owners. As a business owner, Trim provides you with an efficient reservation management system that automates and optimizes the entire booking process—from customer reservations to employee calendar organization.
 
 Developed by me and two other talented developers <a href="https://github.com/fabio3070" target="_blank">Fábio</a> and <a href="https://github.com/miguel876" target="_blank">Miguel</a>. This app is available on both the <a href="https://play.google.com/store/apps/details?id=com.trim.prototype" target="_blank">Google Play Store</a> and the <a href="https://apps.apple.com/us/app/trim/id6450324869" target="_blank">Apple App Store</a>, offering a seamless experience for managing appointments on-the-go.
+
 
