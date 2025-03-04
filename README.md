@@ -45,7 +45,7 @@ Currently, I'm working at Bizay as a Software Developer!
 
 ## 🔥 **Side Projects**
 
-![Trim](trim.png)
+![Trim](trim.svg)
 
 Trim is a mobile app designed to simplify the booking process for both customers and business owners. As a business owner, Trim provides you with an efficient reservation management system that automates and optimizes the entire booking process—from customer reservations to employee calendar organization.
 
