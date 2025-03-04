@@ -8,8 +8,6 @@ Currently, I'm working at Bizay as a Software Developer!
 - 📫 Reach me at [jonhvaz@gmail.com](mailto:jonhvaz@gmail.com)
 - 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vaz-963794158/)
 
-
-
 ## 🛠️ **Skills & Expertise**  
 
 ![C#](https://img.shields.io/badge/C%23-informational?style=flat&logo=csharp&logoColor=white&color=512BD4) 
@@ -45,7 +43,7 @@ Currently, I'm working at Bizay as a Software Developer!
 
 ## 🔥 **Side Projects**
 
-![Trim](trim.svg)
+### **Trim - Mobile App for Reservation Management**
 
 Trim is a mobile app designed to simplify the booking process for both customers and business owners. As a business owner, Trim provides you with an efficient reservation management system that automates and optimizes the entire booking process—from customer reservations to employee calendar organization.
 
