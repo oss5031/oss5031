@@ -49,4 +49,7 @@ Trim is a mobile app designed to simplify the booking process for both customers
 
 Developed by me and two other talented developers <a href="https://github.com/fabio3070" target="_blank">Fábio</a> and <a href="https://github.com/miguel876" target="_blank">Miguel</a>. This app is available on both the <a href="https://play.google.com/store/apps/details?id=com.trim.prototype" target="_blank">Google Play Store</a> and the <a href="https://apps.apple.com/us/app/trim/id6450324869" target="_blank">Apple App Store</a>, offering a seamless experience for managing appointments on-the-go.
 
+### **Quiz Builder**
+
+Easily create custom quizzes in seconds — perfect for teachers, content creators, or anyone who wants to generate interactive quizzes quickly. Simple, fast, and no sign-up required. <a href="https://quizbuilder-z83o.onrender.com" target="_blank">Try it out here!</a>
 
